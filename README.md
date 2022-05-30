@@ -9,7 +9,8 @@ This project is related to Python and is a basic ASCII hangman game
 - Python is generically a functional language.  
 
 >
->Programming considerations:  Strings are immutable so replacing a single chracter when a correct guess occurs is a bit of work. 
-> 
-- I have opted for using a list of chars 
-- Scope is difficult to teach as global variables in functions are read only and they become Out of Scope if values are assigned!
+>Programming considerations:  
+>
+- Strings are immutable so replacing a single chracter when a correct guess occurs is a bit of work.  
+  - I have opted for using a list of chars instead 
+- Scope is difficult to teach as global variables are only in scope to read inside functions and they become Local Variables (and therefore out of scope) if values are assigned!
