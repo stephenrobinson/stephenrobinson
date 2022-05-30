@@ -1,10 +1,10 @@
 >
-># I am a Software Developer, Trainer and Lecturer
+>## Software Developer, Trainer and Lecturer
 >
-The resources that I create are generally used for educational purposes although I may occasionally create programming tools and games
+Resources to support training activities
 
 
-This project is related to Python and is a basic ASCII hangman game
+This project is written in Python and is a basic ASCII hangman game
 > Educational notes:  
 - Python is generically a functional language.  
 
